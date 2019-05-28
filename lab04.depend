@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1558893627 source:c:\users\redis\desktop\Новая папка (3)\byteprint.cpp
+	"byteprint.h"
+
+1558893627 c:\users\redis\desktop\Новая папка (3)\byteprint.h
+	<iostream>
+	<cassert>
+	<cstring>
+
+1558896175 source:c:\users\redis\desktop\Новая папка (3)\main.cpp
+	<conio.h>
+	<cstring>
+	"byteprint.h"
+

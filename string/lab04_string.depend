@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558893628 source:c:\users\u211-19\desktop\Новая папка\Новая папка (4)\string\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
